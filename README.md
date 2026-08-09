@@ -1,6 +1,6 @@
 # 📚MUTD Dataset
-<img width="8458" height="5888" alt="overall" src="fig\MUTD_analysis.jpg" />
-<img width="8458" height="5888" alt="overall" src="fig\MUTD.jpg" />
+<img width="8458" height="5888" alt="MUTD_analysis" src="fig\MUTD_analysis.jpg" />
+<img width="8458" height="5888" alt="MUTD" src="fig\MUTD.jpg" />
 
 ⭐The MUTD data set can be obtained through the following link: 
 ```
